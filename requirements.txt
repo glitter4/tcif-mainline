@@ -1,0 +1,9 @@
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+transformers==4.45.2
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+Pillow>=10.0
+safetensors>=0.4
